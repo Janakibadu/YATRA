@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_account.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_email.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_favorite.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_home.xml" value="0.206" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_location.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_search.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/ic_visibilityoff.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/drawable/items_selector.xml" value="0.237" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_adaptor.xml" value="0.2359375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_adventure.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_cafe.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_cafe_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_homescreen.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_hospital.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_hospitals.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_hotel.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_places.xml" value="0.2359375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/activity_travelplaces.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_account.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_favourite.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_location.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/layout/fragment_search.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ProjectII/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

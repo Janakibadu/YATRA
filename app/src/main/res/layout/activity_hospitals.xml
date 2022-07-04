@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TravelActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Find  Hospitals"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"></TextView>
+
+        <SearchView
+            android:layout_width="300dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginRight="20dp"
+            android:background="#F1F4F4"
+            android:iconifiedByDefault="false"
+            android:queryHint="Search here"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="350dp"
+            android:layout_marginTop="20dp"
+            app:srcCompat="@drawable/verticalmenu" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        android:layout_marginBottom="59dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/btnnevigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="669dp"
+        app:menu="@menu/bottom_nav_menu">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+</RelativeLayout>
